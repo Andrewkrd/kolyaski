@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Sitemap: http://kolyaski-krasnodar.ru/sitemap.xml
